@@ -1,0 +1,24 @@
+{
+  "name": "school-test-api",
+  "version": "1.0.0",
+  "description": "TEST",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/code-malayalam/school-test-api.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/code-malayalam/school-test-api/issues"
+  },
+  "homepage": "https://github.com/code-malayalam/school-test-api#readme",
+  "dependencies": {
+    "axios": "^0.27.2",
+    "node-fetch": "^2.6.7"
+  }
+}
